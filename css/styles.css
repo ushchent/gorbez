@@ -1,0 +1,26 @@
+div {
+    display: inline;
+    float: left;
+    margin-bottom: 1em;
+}
+
+table {
+    border: 1px;
+    }
+#container {
+    width: 50em;
+    }
+    
+#output {
+    display: none;
+    width: 30em;
+    }
+
+#error {
+    display: none;
+    color: red;
+    }
+
+td {
+    text-align: center;
+    }
